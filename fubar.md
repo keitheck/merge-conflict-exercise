@@ -7,5 +7,9 @@ we're rad
 
 ###Hey look, squirrels.
 
-I'm changing stuff and pushing it to the master,
-it's gunna get hairy bro, but don't worry
+<<<<<<< HEAD
+
+
+###Anyone have a peanut?
+======
+>>>>>>> dcf0ea5f3bccd227d878fac48e19cd0f957aef97
